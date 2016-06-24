@@ -116,7 +116,7 @@
                 android:layout_marginLeft="@dimen/activity_xbig_margin"
                 android:layout_marginRight="@dimen/activity_xbig_margin"
                 android:onClick="addOneForTeamB"
-                android:text="@string/main.message.add.two" />
+                android:text="@string/main.message.add.one" />
         </LinearLayout>
 
     </LinearLayout>
