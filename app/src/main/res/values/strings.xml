@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Court Counter</string>
+    <string name="main.teamA.name">Team A</string>
+    <string name="main.teamB.name">Team B</string>
+    <string name="main.score.default">0</string>
+    <string name="main.message.add.three">+3 Points</string>
+    <string name="main.message.add.two">+2 Points</string>
+    <string name="main.message.add.one">Free throw</string>
+
 </resources>
